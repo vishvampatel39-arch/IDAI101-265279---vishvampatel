@@ -165,3 +165,5 @@ update_screenshots.py   rebuilds the screenshot list above from the files in scr
 - Streamlit documentation; Python `turtle` documentation; NVIDIA API documentation; OpenStreetMap contributors.
 - Fonts: Atkinson Hyperlegible and Silkscreen (Google Fonts).
 - Built with AI assistance (Claude) for code and documentation, then reviewed and tested by the author. TODO: edit this line so it matches what you actually did and your school's rules.
+- streamlit link:**[https://idai101-265279---vishvampatel-tg64wlw9sxtnxut2puxqbn.streamlit.app/](https://idai101-265279---vishvampatel-tg64wlw9sxtnxut2puxqbn.streamlit.app/)**
+  
