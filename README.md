@@ -130,20 +130,10 @@ update_screenshots.py   rebuilds the screenshot list above from the files in scr
 
 
 
-| Check | What I did | Result | What I changed |
-|---|---|---|---|
-| Entered realistic test medicines | | | |
-| Checklist updates at different times (yellow, then red) | | | |
-| Marked medicines as taken and watched the score update | | | |
-| Turtle drawing appears in the right place | | | |
-| Pop-up and beep at dose time | | | |
-| ACB lookup, compare, pharmacy search, SOS buttons | | | |
 
 
 
-| Who (age or relationship) | What they said | What I changed |
-|---|---|---|
-| | | |
+
 
 ## Accessibility and design choices
 - Large, readable text (Atkinson Hyperlegible) and strong contrast; status is shown in words as well as colour
