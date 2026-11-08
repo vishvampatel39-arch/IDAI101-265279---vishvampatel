@@ -1,7 +1,7 @@
 # MedTimer: Your Daily Medicine Companion
 
-**Live app:** TODO: paste your Streamlit Cloud link here
-**Author:** TODO: your full name
+
+**Author:** TODO: vishvam himanshu patel 
 **Course:** Year 1 Python Programming, Summative Assessment, Scenario 2 (Design MedTimer Daily Medicine Companion using Python)
 
 ---
@@ -128,7 +128,7 @@ update_screenshots.py   rebuilds the screenshot list above from the files in scr
 
 **Automated.** `py test_medtimer.py` runs 9 tests of the status colours, score, streak, badges, Turtle choice, report and ACB lookup.
 
-**Manual.** TODO: fill in with your own results. The first four rows follow the checks in the brief.
+
 
 | Check | What I did | Result | What I changed |
 |---|---|---|---|
@@ -139,7 +139,7 @@ update_screenshots.py   rebuilds the screenshot list above from the files in scr
 | Pop-up and beep at dose time | | | |
 | ACB lookup, compare, pharmacy search, SOS buttons | | | |
 
-**User feedback.** TODO: ask someone who fits the user group (for example an older relative) to try the app.
+
 
 | Who (age or relationship) | What they said | What I changed |
 |---|---|---|
@@ -163,6 +163,6 @@ update_screenshots.py   rebuilds the screenshot list above from the files in scr
 - Anticholinergic Cognitive Burden Scale, 2012 update. Aging Brain Care, Indiana University Center for Aging Research / Regenstrief Institute, copyright 2008, 2012. Used here for learning; contact acb@agingbraincare.org before any public or commercial use.
 - Streamlit documentation; Python `turtle` documentation; NVIDIA API documentation; OpenStreetMap contributors.
 - Fonts: Atkinson Hyperlegible and Silkscreen (Google Fonts).
-- Built with AI assistance (Claude) for code and documentation, then reviewed and tested by the author. TODO: edit this line so it matches what you actually did and your school's rules.
+- Built with AI assistance (Claude) for code and documentation, then reviewed and tested by the author.
 - streamlit link:**[https://idai101-265279---vishvampatel-tg64wlw9sxtnxut2puxqbn.streamlit.app/](https://idai101-265279---vishvampatel-tg64wlw9sxtnxut2puxqbn.streamlit.app/)**
   
