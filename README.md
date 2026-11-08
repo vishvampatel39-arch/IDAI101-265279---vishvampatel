@@ -44,15 +44,14 @@ The planning notes and layout wireframe are in [`docs/PLANNING.md`](docs/PLANNIN
 
 ## Screenshots
 
-<!-- SCREENSHOTS:START -->
-![Dashboard: add a medicine and today's checklist](screenshots/Screenshot%20%28112%29.png)
-![Medji answering a question about paracetamol](screenshots/Screenshot%20%28113%29.png)
-![Anticholinergic check and the ACB scale](screenshots/Screenshot%20%28114%29.png)
-![Compare two medicines](screenshots/Screenshot%20%28115%29.png)
-![Learn page: why people forget](screenshots/Screenshot%20%28116%29.png)
-![Find a nearby pharmacy](screenshots/Screenshot%20%28117%29.png)
-![SOS page with one-tap call buttons](screenshots/Screenshot%20%28118%29.png)
-<!-- SCREENSHOTS:END -->
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/3f1bcb43-2ec3-4cae-9315-edf5832c1329" />
+<img width="1920" height="1080" alt="Screenshot (117)" src="https://github.com/user-attachments/assets/16679ca7-8c45-42c8-9fa1-87432a74b04e" />
+<img width="1920" height="1080" alt="Screenshot (116)" src="https://github.com/user-attachments/assets/ca3316ac-487e-478a-9629-e5122323592e" />
+<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/6af5fc3c-a27b-49c7-9e69-fb981797a495" />
+<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/cf41da5e-2a55-4f52-8403-5c8ded3340bc" />
+<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/5ffe7d5c-247c-4d0d-952d-9696f1de948d" />
+<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/6563aeae-6021-4440-9700-ec796974fa2f" />
+
 
 Add more screenshots (for example the checklist with sample data, the Turtle smiley or trophy, the Insights charts and the live app) to the `screenshots` folder, then run `py update_screenshots.py` to add them here.
 
